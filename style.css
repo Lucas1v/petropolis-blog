@@ -1,0 +1,61 @@
+body{
+    background-image: url("http://www.visitepetropolis.com/upload/banners/original/onde-comer---2-29-04-2019-10-02-51-5433.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position-x: center;
+    margin: 0;
+  }
+  h1{
+    text-align: center;
+    text-decoration: underline;
+    color:white;
+  }
+  h3{
+    font-weight: bold;
+  }
+  div{
+    width:70%;
+    margin-left: 15%;
+    border:1px solid #ffffff;
+    margin-bottom: 30px;
+    padding: 40px;
+    padding-right: 50px;
+    background-color:rgb(229, 237, 111,.8);
+    font-family: 'Zilla Slab', serif;
+  }
+  header{
+    width:73%;
+    margin-left: 15%;
+    padding: 2%;
+    border:1px solid #ffffff;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    background-color:rgb(229, 237, 111,.8);
+  }
+  p{
+    text-align:justify;
+    font-size: 20px;
+  }
+  li{
+    font-size: 20px;
+  }
+  #maincaption{
+    text-align: center;
+    font-style: italic;
+    font-weight: lighter;
+  }
+  #contactdata{
+    text-align: center;
+    font-style: italic;
+    font-size: 16px;
+  }
+  #img1{
+    width:30%;
+  }
+  #img2{
+    width:20%;
+  }
+  #img3{
+    width:12%;
+  }
